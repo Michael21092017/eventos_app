@@ -1,0 +1,22 @@
+# Flutter
+.dart_tool/
+.build/
+build/
+
+# Gradle
+.gradle/
+.gradle-user-home/
+**/wrapper/dists/
+
+# Archivos basura
+*.log
+*.tmp
+*.bin
+
+# IDE
+.vscode/
+.idea/
+
+# Sistema
+.DS_Store
+*.hprof
